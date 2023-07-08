@@ -1,0 +1,170 @@
+/* .container{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px; 
+    background-color: black;
+    margin: 50px;
+    padding: 50px;
+    border-radius: 100px 100px 100px 100px;
+    box-shadow: 10px 10px 10px 10px pink;
+
+}
+.eyes{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    border-color:  red transparent transparent transparent;
+    border-radius: 100% ; */
+
+    .face{
+        height: 100px;
+        width: 100px;
+        background-color: yellow;
+        border-radius: 100%;
+        position: relative;
+        box-shadow: 0px 0px 1px 1px black;
+    }
+
+    .reye{
+        height: 11px;
+        width: 10px;
+        background-color: white;
+        border-radius: 100%;
+        position: absolute;
+        top: 30px;
+        left: 20px;
+
+    }
+    .reb{
+        height:6px;
+        width: 9px;
+        background-color: black;
+        border-radius: 100%;
+        position: absolute;
+        top: 35px;
+        left:20px ;
+        padding-left: 1px;
+    }
+
+    
+
+    .leye{
+        height: 11px;
+        width: 10px;
+        background-color: white;
+        border-radius: 100%;
+        position: absolute;
+        top:30px ;
+        left:65px;
+    }
+
+
+
+    
+    .leb{
+        height:6px;
+        width: 9px;
+        background-color: black;
+        border-radius: 100%;
+        position: absolute;
+        top: 35px;
+        right:25px ;
+        padding-right: 1px;
+    
+    }
+
+    .rb{
+        height: 40px;
+        width: 25px ;
+        border: 4px solid black;
+
+        border-color: black transparent transparent transparent;
+        border-radius:  100%;
+        position: absolute;
+        top: 20px;
+        left: 55px;
+    }
+
+    .lb{
+        height: 40px;
+        width: 25px ;
+        border: 4px solid black;
+
+        border-color: black transparent transparent transparent;
+        border-radius:  100%;
+        position: absolute;
+        top: 20px;
+        left: 10px;
+    }
+    
+
+    /* .rch{
+        height:10px;
+        width:10px;
+        background-color:#FFBEA3;
+        border-radius: 100%;
+        position: absolute;
+        top:55px;
+        left: 75px;
+    
+        
+
+    }
+
+    .lch{
+        height:10px;
+        width:10px;
+        background-color:#FFBEA3;
+        border-radius: 100%;
+        position: absolute;
+        top:55px;
+        left: 10px;
+
+    } */
+
+
+    
+
+    
+
+    .mouth{
+        height:20px ;
+        width:40px;
+        background-color: red;
+        border-radius: 50px 50px 50px ;
+        /* border-radius:50%; */
+        position: absolute;
+        top:65px; 
+        left:30px;
+        
+    }
+    
+
+    .tongue{
+        height: 10px;
+        width: 35px;
+        background-color:#FFBEA3;
+        border-radius: 0px 0px 10px 10px;
+        position:absolute;
+        top: 10px;
+        left: 2px;
+        right: 20px;
+        padding-left: 1px;
+    
+    } 
+    .container{
+        margin-top: 50px;
+        left: 80px;
+        top: 85px;
+        padding-left: 160px;
+        
+    }
+
+    /* .mouth :hover{
+        transform: rotate(50deg);
+    } */
+/* 
+    .eye :hover{
+        transform: rotate(20deg) ;
+    } */
+
